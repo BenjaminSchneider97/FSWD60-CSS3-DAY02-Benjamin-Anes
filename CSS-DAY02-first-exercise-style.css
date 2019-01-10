@@ -1,0 +1,9 @@
+.container{
+	width: 800px;
+	position: absolute;
+	left: 50%;
+	transform: translateX(-50%);
+	padding: 0px 50px;
+	box-shadow: 3px 5px 1px grey, -3px 5px 3px grey;
+	margin-bottom: 15px;
+}
