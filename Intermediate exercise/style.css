@@ -238,10 +238,26 @@ h3.archives span {
     padding: 10px;
     color: #FFFFFF;
 }
+
 h3 span{
     font-size: 12pt;
 }
+
 #participation{
     background-color: #747C3A;
     color: white;
 }
+
+#explanation span[class="danger"]{
+    color: brown;
+    font-weight: bold;
+}
+
+ul > li {
+    color: #525D21;
+    font-style: italic;
+}
+
+span[class="years"] > li[class="strong"]{
+    color: #DD8804;
+} 
